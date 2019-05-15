@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/baran/Desktop/Baran/Vagrant/apache-on-centos7","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
