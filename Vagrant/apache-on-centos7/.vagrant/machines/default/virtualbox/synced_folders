@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/baran/.git/Vagrant/cautious-journey/Vagrant/apache-on-centos7","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
