@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/share/nginx/www":{"create":true,"guestpath":"/usr/share/nginx/www","hostpath":"/home/baran/Desktop/Baran/Vagrant/nginx-on-ubuntu/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/baran/Desktop/Baran/Vagrant/nginx-on-ubuntu","disabled":false,"__vagrantfile":true}}}
